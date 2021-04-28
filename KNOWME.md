@@ -1,5 +1,0 @@
-- 👋 Hi, I’m @Gin08
-- 👀 I’m interested in signal processing & statistical driven observations of real life scenario.
-- 🌱 I’m currently learning algorithms & deeper in statistics.
-- 💞️ I’m looking to collaborate on basic C++, python & R projects.
-- 📫 Contact Me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/kalyan-devarapalli)
